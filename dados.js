@@ -17,6 +17,17 @@ let dados = [
         link: "https://www.onu.org.br/agenda2030",
         tags: "sustentavel qualidade de vida ar saudável saudavel "
     },
+    {
+        titulo: "Fumaça em Manaus",
+        descricao: "As queimadas na Amazônia em 2024 causaram uma densa camada de fumaça, afetando a qualidade do ar em Manaus.",
+        tags: "fumaça, manaus, queimadas",
+        link: "https://brasilamazoniaagora.com.br/fumaca-manaus-crise-ambiental"
+    },
+    {
+        titulo: "Impacto das queimadas",
+        descricao: "A fumaça das queimadas tem se espalhado por toda a região, prejudicando a saúde pública e o meio ambiente.",
+        tags: "queimadas, amazônia, meio ambiente",
+        link: "https://amazoniareal.com.br/fumaca-manaus-queimadas"
+    },
 ];
 
-  
