@@ -35,7 +35,7 @@ Sinta-se à vontade para contribuir com este projeto! Se você tiver alguma suge
 
 **Agradecimentos:**
 
-Agradecemos à imersão Dev Alura e ao Gemini por fornecerem as ferramentas e o conhecimento necessários para a criação desta aplicação.
+Agradecemos Alura e ao Gemini por fornecerem as ferramentas e o conhecimento necessários para a criação desta aplicação.
 
 **Disclaimer:**
 
